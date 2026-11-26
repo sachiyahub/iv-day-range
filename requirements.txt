@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+mangum
+nse
+scipy
+numpy
+pandas
+requests
+python-multipart
